@@ -117,6 +117,25 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Jason",
+      "species": "Jack Rabbit",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "goofy"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Jasper",
+      "species": "Jaguar",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
