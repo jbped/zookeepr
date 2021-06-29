@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3001;
 const app = express();
 const { animals } = require("./data/animals");
 
-// parse incoming string or array data
+// parse incoming string or array data, extended: true makes it view all levels of the array. 
 app.use(express.urlencoded({ extended:true }));
 // parse incoming JSON data
 app.use(express.json());
